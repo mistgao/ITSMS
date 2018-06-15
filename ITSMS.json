@@ -1,0 +1,1 @@
+{"name":"ITSMS","master":true,"version":"0.0.1","description":"","schemas":{},"models":{},"behaviors":{"l179fb1c07018f37":{"_id":"l179fb1c07018f37","component":"q1582217b081bf70","state":"start","action":"function start() { \n  \n}","useCoreAPI":false,"core":false}},"types":{},"components":{},"_id":"q1582217b081bf70"}
